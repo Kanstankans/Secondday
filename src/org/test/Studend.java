@@ -14,6 +14,7 @@ public class Studend {
 			Studend s=new Studend();
 			s.tst1();
 			s.tst2();
+			System.out.println("im no3");
 		}
 
 }
